@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Below is an outline of all the prerequisites and installation steps I used for the open-source help desk ticketing system osTicket. This proccess includes setting up a compatible web server environment, configuring essential PHP extentions, and ensuring all system requirements are met for optimal performance.<br />
+Here is an overview of the prerequisites and installation steps I followed for the open-source help desk ticketing system, osTicket. This process involves setting up a compatible web server environment, configuring necessary PHP extensions, and meeting all system requirements to ensure optimal performance.<br />
 
 
 
